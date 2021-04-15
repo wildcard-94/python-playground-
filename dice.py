@@ -5,7 +5,7 @@
 
 
 import random
-
+print("This is a dice stimulator")
 x = "y"
 
 while x == "y":
@@ -46,5 +46,5 @@ while x == "y":
         print("| 0     0 |")
         print("| 0     0 |")
         print("-----------")
-    x = input("y or n")
+    x = input("press y to roll again")
 
